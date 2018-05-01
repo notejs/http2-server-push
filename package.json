@@ -1,0 +1,20 @@
+{
+  "name": "http2-server-push",
+  "version": "1.0.0",
+  "description": "A http2 server push demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http2",
+    "server",
+    "push"
+  ],
+  "author": "Linus Wang",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.18"
+  }
+}
